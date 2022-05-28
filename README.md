@@ -25,6 +25,9 @@ Um projeto que trouxe muito aprendizado sobre como utilizar rotas, paginas, arqu
 
 
 ![Captura de tela de 2022-05-28 13-20-59](https://user-images.githubusercontent.com/80429145/170833929-c1b22f16-2b5f-4e9d-aa80-e5900176de3d.png)
-![Captura de tela de 2022-05-28 13-21-25](https://user-imag![Captura de tela de 2022-05-28 13-21-36](https://user-images.githubusercontent.com/80429145/170833935-8c115452-a127-4049-8459-8437db4e89cf.png)![Captura de tela de 2022-05-28 13-21-57](https://user-images.githubusercontent.com/80429145/170833943-fd5a650d-6462-4f3b-8202-90afe743e9c0.png)
 
-es.githubusercontent.com/80429145/170833932-f23e167c-8396-4932-a1f5-e79e389c7df2.png)
+![Captura de tela de 2022-05-28 13-21-25](https://user-images.githubusercontent.com/80429145/170833999-c759af24-8b02-4d37-918f-6830d2a9c05b.png)
+![Captura de tela de 2022-05-28 13-21-36](https://user-images.githubusercontent.com/80429145/170834012-59722bbe-3e40-4410-9b67-001b34026eac.png)
+
+![Captura de tela de 2022-05-28 13-21-57](https://user-images.githubusercontent.com/80429145/170834023-d4d83b35-fa8d-4239-ba8e-1815b198bf6b.png)
+

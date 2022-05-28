@@ -1,7 +1,8 @@
-import menu from './items.json';
+import menu from 'data/menu.json';
 import styles from './Items.module.scss';
 import { Item } from './Item';
 import { useEffect, useState } from 'react';
+import { MenuRestaurant } from 'types/Dish';
 
 interface ItemsProps {
   search: string;
@@ -23,11 +24,11 @@ export function Items(props: ItemsProps) {
     return true;
   }
 
-  function sortPropertyAscending(list: typeof menu, property: 'size' | 'serving' | 'price') {
+  function sortPropertyAscending(list: MenuRestaurant, property: 'size' | 'serving' | 'price') {
     return list.sort((a, b) => (a[property] > b[property] ? 1 : -1));
   }
 
-  function sortItems(newList: typeof menu) {
+  function sortItems(newList: MenuRestaurant) {
     switch (orderBy) {
       case 'porcao': {
         return sortPropertyAscending(newList, 'size');

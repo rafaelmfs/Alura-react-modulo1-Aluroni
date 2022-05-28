@@ -1,0 +1,67 @@
+@import "styles/variables";
+@import "styles/breakpoints";
+
+$mass: #d73b3b;
+$meat: #30201e;
+$combos: #e6c864;
+$vegans: #80aa40;
+
+.item {
+  align-items: center;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 12px;
+  transition: .2s ease-in;
+  width: 90%;
+  &:hover {
+    background-color: $grey;
+  }
+  &__image {
+    min-width: 240px;
+    @media (max-width: $desktop_xsm) {
+      width: 100%;
+    }
+    img {
+      border-radius: 8px;
+      width: 100%;
+    }
+  }
+  &__even{
+    background-color: #800000;
+    color: #f3e2e2;
+    border-radius: 8px;
+    &:hover{
+      background-color: #571111;
+
+    }
+  }
+  &__description {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 20px;
+    @media (max-width: $desktop_xsm) {
+      flex-direction: row;
+      margin-top: 20px;
+      padding: 0;
+    }
+  }
+  &__title {
+    h2 {
+      font-size: 2rem;
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+    p {
+      color: $dark-grey;
+      font-size: 1.3rem;
+      font-weight: 600;
+      max-width: 600px;
+      margin-bottom: 20px;
+    }
+  }
+}

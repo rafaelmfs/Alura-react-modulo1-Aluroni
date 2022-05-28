@@ -4,13 +4,13 @@
 
 #### Feito com
 
-- [HTML5-markup].(https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-- [CSS-Modules].(https://github.com/mrmckeb/typescript-plugin-css-modules)
-- [Biblioteca-Classnames].(https://github.com/JedWatson/classnames)
-- [SASS].(https://sass-lang.com/documentation)
-- [React].(https://pt-br.reactjs.org/docs/getting-started.html)
-- [Typescript].(https://www.typescriptlang.org/)
-- [React-Router-Dom].(https://reactrouter.com/docs/en/v6/getting-started/overview)
+- [HTML5-markup](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+- [CSS-Modules](https://github.com/mrmckeb/typescript-plugin-css-modules)
+- [Biblioteca-Classnames](https://github.com/JedWatson/classnames)
+- [SASS](https://sass-lang.com/documentation)
+- [React](https://pt-br.reactjs.org/docs/getting-started.html)
+- [Typescript](https://www.typescriptlang.org/)
+- [React-Router-Dom](https://reactrouter.com/docs/en/v6/getting-started/overview)
 
 ### Como utilizar?
 

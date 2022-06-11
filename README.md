@@ -1,4 +1,4 @@
-# Alura Studies
+# Aluroni
 
 ### Projeto para aprendizado do curso de React com Typescript
 
